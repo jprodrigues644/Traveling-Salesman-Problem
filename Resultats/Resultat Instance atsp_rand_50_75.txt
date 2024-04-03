@@ -1,0 +1,88 @@
+Resultat Instance atsp_rand_50_75
+
+*******************Traveling Salesman Problem********************
+-----------------------------------------------------------------
+Rentrer le Chemin de l'instance : instances\Asymetriques\atsp_rand_50_75.txt
+ Rentrer 1 ou 2 Choisir un type d'instance :
+ 1-Symetrique
+ 2-Asymetrique
+2
+Nombre de Villes à Parcourir :  50
+Initial cost 0  :  2555
+0 Execution Finished
+Initial cost 1  :  2759
+1 Execution Finished
+Initial cost 2  :  2598
+2 Execution Finished
+Initial cost 3  :  2559
+3 Execution Finished
+Initial cost 4  :  2550
+4 Execution Finished
+Initial cost 5  :  2580
+5 Execution Finished
+Initial cost 6  :  2603
+6 Execution Finished
+Initial cost 7  :  2755
+7 Execution Finished
+Initial cost 8  :  2733
+8 Execution Finished
+Initial cost 9  :  2648
+9 Execution Finished
+---------------Descente Swap Best--------------
+[1685, 1766, 1729, 1722, 1753, 1673, 1757, 1746, 1712, 1702]
+---------------Descente Swap First--------------
+[1921, 1979, 2055, 2050, 1990, 1929, 1973, 2091, 2117, 1876]
+---------------Descente Swap Worst--------------
+[1744, 1747, 1756, 1742, 1751, 1748, 1731, 1747, 1751, 1703]
+---------------Descente 2-Opt Best--------------
+[1978, 2127, 2023, 2069, 1971, 1999, 2081, 2063, 2092, 2129]
+---------------Descente 2-Opt First--------------
+[1833, 1848, 1828, 1982, 1898, 1947, 1883, 1879, 1869, 1971]
+---------------Descente 2-opt Worst--------------
+[2188, 1945, 1803, 1967, 1832, 2147, 2156, 1852, 1838, 2132]
+---------------Recherche Local Iterée Swap Best 5 Perturbations--------------
+[1685, 1766, 1729, 1722, 1753, 1673, 1757, 1746, 1712, 1702]
+---------------Recherche Local Iterée  2-opt Best 5 Perturbations--------------
+[1978, 2127, 2023, 2069, 1971, 1999, 2081, 2063, 2092, 2129]
+
+
+---------------Recherche Local Iterée Swap First 5 Perturbations--------------
+[1921, 1979, 2055, 2050, 1990, 1929, 1973, 2091, 2117, 1876]
+---------------Recherche Local Iterée First 2-opt First 5 Perturbations--------------
+[1978, 2120, 2023, 2069, 1971, 1999, 2081, 2063, 2092, 2129]
+
+
+---------------Recherche Local Iterée Swap Worst 5 Perturbations--------------
+[1921, 1979, 2055, 2050, 1990, 1929, 1973, 2091, 2117, 1876]
+---------------Recherche Local Iterée 2-opt Worst  5 Perturbations--------------
+[2172, 1945, 1803, 1967, 1832, 2147, 2156, 1852, 1838, 2132]
+
+
+---------------Recherche Local Iterée Swap Best 7 Perturbations--------------
+[1685, 1766, 1729, 1722, 1753, 1673, 1757, 1746, 1712, 1702]
+---------------Recherche Local Iterée  2-opt Best 7 Perturbations--------------
+[1978, 2127, 2023, 2069, 1971, 1999, 2081, 2063, 2092, 2129]
+
+
+---------------Recherche Local Iterée Swap First 7 Perturbations--------------
+[1921, 1979, 2055, 2050, 1976, 1929, 1973, 2091, 2117, 1876]
+---------------Recherche Local Iterée First 2-opt First 7 Perturbations--------------
+[1833, 1848, 1828, 1982, 1898, 1940, 1883, 1879, 1869, 1971]
+
+
+---------------Recherche Local Iterée Swap Worst 7 Perturbations--------------
+[1921, 1979, 2055, 2050, 1990, 1929, 1973, 2091, 2117, 1876]
+---------------Recherche Local Iterée 2-opt Worst  7 Perturbations--------------
+[2188, 1945, 1803, 1963, 1832, 2147, 2156, 1852, 1838, 2132]
+
+
+--------------------Sampled Walk 5 Swap------------------------
+[1727, 1747, 1770, 1691, 1784, 1769, 1779, 1760, 1751, 1723]
+--------------------Sampled Walk 5 2-opt------------------------
+[2044, 2067, 1987, 2043, 2103, 2120, 2069, 2062, 2077, 2044]
+
+
+--------------------Sampled Walk 7 Swap------------------------
+[1728, 1758, 1752, 1756, 1735, 1755, 1722, 1757, 1762, 1754]
+--------------------Sampled Walk 7 2-opt------------------------
+[1901, 2091, 2026, 2044, 2096, 2105, 2113, 2085, 2160, 2088]

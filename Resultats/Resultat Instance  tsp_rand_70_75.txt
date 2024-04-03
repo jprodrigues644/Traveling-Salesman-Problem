@@ -1,0 +1,75 @@
+Resultat Instance : tsp_rand_70_75
+Rentrer le Chemin de l'instance : instances\Symetriques\tsp_rand_70_75.txt
+ Rentrer 1 ou 2 Choisir un type d'instance :
+ 1-Symetrique
+ 2-Asymetrique
+1
+Nombre de Villes à Parcourir :  70
+0 Execution Finished
+1 Execution Finished
+2 Execution Finished
+3 Execution Finished
+4 Execution Finished
+5 Execution Finished
+6 Execution Finished
+7 Execution Finished
+8 Execution Finished
+9 Execution Finished
+---------------Descente Swap Best--------------
+[3655, 3647, 3679, 3652, 3629, 3690, 3684, 3637, 3685, 3684]
+---------------Descente Swap First--------------
+[3727, 3704, 3731, 3709, 3734, 3657, 3674, 3745, 3673, 3681]
+---------------Descente Swap Worst--------------
+[3675, 3684, 3652, 3645, 3648, 3685, 3655, 3683, 3674, 3646]
+---------------Descente 2-Opt Best--------------
+[3578, 3536, 3552, 3564, 3559, 3566, 3551, 3538, 3557, 3584]
+---------------Descente 2-Opt First--------------
+[3602, 3558, 3542, 3544, 3534, 3583, 3604, 3587, 3616, 3612]
+---------------Descente 2-opt Worst--------------
+[3560, 3612, 3548, 3627, 3573, 3697, 3592, 3601, 3593, 3623]
+---------------Recherche Local Iterée Swap Best 5 Perturbations--------------
+[3655, 3647, 3679, 3652, 3629, 3690, 3684, 3637, 3685, 3684]
+---------------Recherche Local Iterée  2-opt Best 5 Perturbations--------------
+[3578, 3536, 3552, 3564, 3559, 3566, 3551, 3538, 3557, 3584]
+
+
+---------------Recherche Local Iterée Swap First 5 Perturbations--------------
+[3727, 3704, 3731, 3709, 3734, 3657, 3674, 3745, 3673, 3681]
+---------------Recherche Local Iterée First 2-opt First 5 Perturbations--------------
+[3578, 3536, 3552, 3564, 3559, 3566, 3551, 3538, 3557, 3584]
+
+
+---------------Recherche Local Iterée Swap Worst 5 Perturbations--------------
+[3727, 3704, 3731, 3709, 3734, 3657, 3674, 3745, 3673, 3681]
+---------------Recherche Local Iterée 2-opt Worst  5 Perturbations--------------
+[3560, 3612, 3548, 3627, 3573, 3697, 3592, 3601, 3593, 3623]
+
+
+---------------Recherche Local Iterée Swap Best 7 Perturbations--------------
+[3655, 3647, 3679, 3652, 3629, 3690, 3684, 3637, 3685, 3684]
+---------------Recherche Local Iterée  2-opt Best 7 Perturbations--------------
+[3578, 3536, 3552, 3564, 3559, 3566, 3551, 3538, 3557, 3584]
+
+
+---------------Recherche Local Iterée Swap First 7 Perturbations--------------
+[3727, 3704, 3731, 3709, 3734, 3657, 3674, 3745, 3673, 3681]
+---------------Recherche Local Iterée First 2-opt First 7 Perturbations--------------
+[3602, 3558, 3542, 3544, 3534, 3583, 3604, 3587, 3616, 3612]
+
+
+---------------Recherche Local Iterée Swap Worst 7 Perturbations--------------
+[3727, 3704, 3731, 3709, 3734, 3657, 3674, 3745, 3673, 3681]
+---------------Recherche Local Iterée 2-opt Worst  7 Perturbations--------------
+[3560, 3612, 3548, 3627, 3573, 3697, 3592, 3601, 3593, 3623]
+
+
+--------------------Sampled Walk 5 Swap------------------------
+[3696, 3714, 3688, 3690, 3689, 3710, 3702, 3668, 3672, 3696]
+--------------------Sampled Walk 5 2-opt------------------------
+[3593, 3583, 3586, 3599, 3589, 3592, 3601, 3593, 3590, 3607]
+
+
+--------------------Sampled Walk 7 Swap------------------------
+[3690, 3692, 3697, 3670, 3696, 3685, 3690, 3722, 3690, 3663]
+--------------------Sampled Walk 7 2-opt------------------------
+[3594, 3588, 3586, 3587, 3585, 3582, 3599, 3579, 3581, 3609]

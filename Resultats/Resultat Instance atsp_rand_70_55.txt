@@ -1,0 +1,78 @@
+Resultat Instance atsp_rand_70_55
+
+*******************Traveling Salesman Problem********************
+-----------------------------------------------------------------
+Rentrer le Chemin de l'instance : instances\Asymetriques\atsp_rand_70_55.txt
+ Rentrer 1 ou 2 Choisir un type d'instance :
+ 1-Symetrique
+ 2-Asymetrique
+2
+Nombre de Villes à Parcourir :  70
+0 Execution Finished
+1 Execution Finished
+2 Execution Finished
+3 Execution Finished
+4 Execution Finished
+5 Execution Finished
+6 Execution Finished
+7 Execution Finished
+8 Execution Finished
+9 Execution Finished
+---------------Descente Swap Best--------------
+[476, 493, 533, 474, 510, 438, 473, 438, 480, 451]
+---------------Descente Swap First--------------
+[951, 1044, 1209, 1047, 1066, 791, 1060, 935, 974, 751]
+---------------Descente Swap Worst--------------
+[524, 507, 500, 541, 496, 410, 486, 423, 544, 511]
+---------------Descente 2-Opt Best--------------
+[1296, 1254, 1072, 1103, 1113, 969, 1086, 1103, 1091, 1171]
+---------------Descente 2-Opt First--------------
+[763, 889, 704, 814, 687, 760, 858, 902, 867, 785]
+---------------Descente 2-opt Worst--------------
+[953, 1196, 884, 777, 944, 1047, 564, 368, 936, 1001]
+---------------Recherche Local Iterée Swap Best 5 Perturbations--------------
+[476, 493, 533, 474, 510, 438, 473, 438, 480, 451]
+---------------Recherche Local Iterée  2-opt Best 5 Perturbations--------------
+[1296, 1224, 1072, 1103, 1113, 969, 1086, 1103, 1091, 1171]
+
+
+---------------Recherche Local Iterée Swap First 5 Perturbations--------------
+[951, 1044, 1209, 1047, 1066, 791, 1060, 935, 974, 751]
+---------------Recherche Local Iterée First 2-opt First 5 Perturbations--------------
+[1296, 1233, 1072, 1103, 1113, 969, 1082, 1103, 1091, 1171]
+
+
+---------------Recherche Local Iterée Swap Worst 5 Perturbations--------------
+[951, 1044, 1209, 1024, 1066, 791, 1060, 935, 974, 751]
+---------------Recherche Local Iterée 2-opt Worst  5 Perturbations--------------
+[953, 1196, 884, 777, 944, 1047, 564, 368, 936, 1001]
+
+
+---------------Recherche Local Iterée Swap Best 7 Perturbations--------------
+[476, 493, 533, 474, 510, 438, 473, 438, 480, 451]
+---------------Recherche Local Iterée  2-opt Best 7 Perturbations--------------
+[1296, 1254, 1072, 1099, 1113, 969, 1086, 1103, 1091, 1171]
+
+
+---------------Recherche Local Iterée Swap First 7 Perturbations--------------
+[951, 1044, 1209, 1047, 1066, 791, 1060, 935, 974, 751]
+---------------Recherche Local Iterée First 2-opt First 7 Perturbations--------------
+[763, 889, 704, 797, 687, 760, 858, 902, 867, 785]
+
+
+---------------Recherche Local Iterée Swap Worst 7 Perturbations--------------
+[951, 1044, 1201, 1047, 1066, 791, 1060, 935, 974, 751]
+---------------Recherche Local Iterée 2-opt Worst  7 Perturbations--------------
+[953, 1196, 884, 777, 944, 1047, 564, 368, 936, 1001]
+
+
+--------------------Sampled Walk 5 Swap------------------------
+[563, 528, 524, 528, 546, 570, 551, 564, 537, 556]
+--------------------Sampled Walk 5 2-opt------------------------
+[955, 1150, 854, 988, 945, 920, 1021, 974, 1139, 1058]
+
+
+--------------------Sampled Walk 7 Swap------------------------
+[530, 518, 535, 520, 497, 512, 548, 541, 521, 504]
+--------------------Sampled Walk 7 2-opt------------------------
+[1092, 1121, 867, 1180, 989, 947, 1011, 956, 970, 1016]
